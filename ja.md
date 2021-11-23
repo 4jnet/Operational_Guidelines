@@ -9,7 +9,7 @@
 
 #### 2.ウォレット（MetaMaskなど）に接続し、
   「Web3に接続」をクリックします
-![Image text]（https://raw.githubusercontent.com/4jnet/Operational_Guidelines/main/images/ScreenShot1.jpg）
+  ![Image text](https://raw.githubusercontent.com/4jnet/Operational_Guidelines/main/images/ScreenShot1.jpg)
 
  
 #### 3.「swapExactETHForTokensSupportingFeeOnTransferTokens」関数を呼び出して4JNETをBNBと交換します。この関数のパラメーターは、次のとおりです。
@@ -32,4 +32,4 @@
 
     （5）期限については、現在の時刻よりも大きいUnixタイムスタンプを入力する必要があります。たとえば、1703310977と入力できます。
 
-![Image text]（https://raw.githubusercontent.com/4jnet/Operational_Guidelines/main/images/ScreenShot2.jpg）
+![Image text](https://raw.githubusercontent.com/4jnet/Operational_Guidelines/main/images/ScreenShot2.jpg)
