@@ -1,4 +1,4 @@
-How To Buy NFT From Contract
+How To Buy 4JNET Token From Contract
 ====
 
  
