@@ -2,12 +2,12 @@
 ====
 
  
-#### 1.  bscscan.com에서 Pancakerouter를 사용한 스마트 계약 열기 : 0x10ED43C718714eb63d5aA57B78B54704E256024E
-또는 아래의 링크를 누릅니다.
+#### 1. bscscan.com에서 Pancakerouter 스마트 계약 열기 : 0x10ED43C718714eb63d5aA57B78B54704E256024E 또는 웹 브라우저에서 웹 링크를 다음과 같이 입력합니다.
   https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E#writeContract
  
 
-#### 2.개인지갑(메타마스크 등)에 접속하고,"아래의 그림을 참조하여 “Connect to Web3“를 클릭하여 개인지갑 연결.
+#### 2.지갑(메타마스크 등)에 접속하고,"Connect to Web3"을 클릭하십시오.
+
   ![Image text](https://raw.githubusercontent.com/4jnet/Operational_Guidelines/main/images/ScreenShot1.jpg)
 
  
@@ -21,8 +21,7 @@
     트랜잭션이 열린 후 첫 번째 4JNET은 최대 약 1BNB로 교환될 수 있습니다. 나중,
     4JNET의 가격이 올라감에 따라 더 많은 BNB를 교환에 사용할 수 있습니다.
 
-(2) 사용자는 4JNET의 최소 출력량을 수용할 수 있습니다. 슬리피지 변화로 4JNET을 충분히 얻지 못한다면,
-    거래가 실패합니다. 성공하려면 0을 입력하는 것이 좋습니다.
+(2) 사용자는 4JNET의 최소 출력량을 수용할 수 있습니다. 슬리피지 변화로 4JNET을 충분히 얻지 못한다면, 거래가 실패합니다. 성공하려면 0을 입력하는 것이 좋습니다.
 
 (3) 교환 경로, WBNB -> 4JNET(BscScan 또는 브라우저로 인해,
     목록의 주소는 큰따옴표로 묶어야 할 수 있습니다.)
@@ -30,6 +29,6 @@
 
 (4) 4JNET 수신 주소는 사용자 지갑의 Bsc 주소입니다.
 
-(5) 마감 시한에 대해 현재 시간보다 큰 Unix 타임스탬프를 입력해야 합니다. 예를 들어 1703310977을 입력할 수 있습니다.
+(5) 마감 시한에 대해 현재 시간보다 큰 Unix 타임스탬프를 입력해야 합니다. (예시. 1703310977 입력)
 
 ![Image text](https://raw.githubusercontent.com/4jnet/Operational_Guidelines/main/images/ScreenShot2.jpg)
