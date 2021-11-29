@@ -12,7 +12,7 @@
   ![Image text](https://raw.githubusercontent.com/4jnet/Operational_Guidelines/main/images/ScreenShot1.jpg)
 
  
-#### 3.「swapExactETHForTokensSupportingFeeOnTransferTokens」関数を呼び出して4JNETをBNBと交換します。この関数のパラメーターは、次のとおりです。
+#### 3.「  swapExactETHForTokensSupportingFeeOnTransferTokens  」関数を呼び出して4JNETをBNBと交換します。この関数のパラメーターは、次のとおりです。
     （1）関数と同じ名前のパラメーターを使用してBNBの量を交換します
         ユーザーが使いたいもの（デフォルトでは小数点以下18桁は省略されています）。例えば、
         0.01を入力できます（金額はアカウントのBNB残高より少なくなければなりません。
